@@ -76,9 +76,3 @@ window.addEventListener('scroll', revealOnScroll);
 // Trigger once on load
 revealOnScroll();
 
-// Contact Form Submit Mock
-document.getElementById('contact-form').addEventListener('submit', function(e) {
-    e.preventDefault();
-    alert('Thank you for your message! This is a mock submission.');
-    this.reset();
-});
