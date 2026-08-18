@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="./typing1.gif" alt="Typing SVG" />
+  <img src="./typing1.gif?v=2" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -145,6 +145,5 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <img src="./typing2.gif" alt="Typing SVG" />
+  <img src="./typing2.gif?v=2" alt="Typing SVG" />
 </div>
-
