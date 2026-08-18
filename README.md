@@ -1,5 +1,5 @@
 <div align="center">
-  <video width="100%" autoplay loop muted controls src="./header.gif"></video>
+  <img width="100%" src="./header.gif" alt="Uchiha Banner"/>
 </div>
 
 <h1 align="center">
@@ -147,3 +147,4 @@
 <div align="center" style="margin-top: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
