@@ -149,7 +149,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhinav-Abhilash/Abhinav-Abhilash/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 <br/>
