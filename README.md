@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="./header.gif" alt="Uchiha Banner"/>
+  <img width="100%" src="./assets/header.gif" alt="Uchiha Banner"/>
 </div>
 
 <h1 align="center">
-  <img src="./typing1.gif?v=2" alt="Typing SVG" />
+  <img src="./assets/typing1.gif?v=2" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -145,5 +145,6 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <img src="./typing2.gif?v=2" alt="Typing SVG" />
+  <img src="./assets/typing2.gif?v=2" alt="Typing SVG" />
 </div>
+
