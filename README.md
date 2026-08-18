@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="300" src="https://github.com/user-attachments/assets/e5029bdd-9a03-4509-9e62-fb3f6c867df2" alt="header"/>
+  <img width="100%" height="300" src="./header.png" alt="header"/>
 </div>
 
 <h1 align="center">
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Workspace" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <div align="center" style="margin-top: 2rem;">
@@ -121,15 +121,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav-Abhilash&show_icons=true&bg_color=050505&title_color=555354&text_color=FFFFFF&icon_color=555354&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Abhilash&background=050505&ring=555354&fire=555354&currStreakNum=FFFFFF&currStreakLabel=555354&sideNums=FFFFFF&sideLabels=555354&dates=FFFFFF&hide_border=true" alt="Streak Stats" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav-Abhilash&layout=compact&bg_color=050505&title_color=555354&text_color=FFFFFF&hide_border=true&langs_count=6" alt="Top Languages" width="400"/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Abhilash&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abhinav-Abhilash&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Abhilash&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/>
@@ -148,11 +144,7 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</div>
 
-<br/>
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=555354&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
