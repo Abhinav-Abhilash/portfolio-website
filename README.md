@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="70%" src="./header.gif" alt="Uchiha Banner"/>
+  <img width="850%" src="./header.gif" alt="Uchiha Banner"/>
 </div>
 
 <h1 align="center">
