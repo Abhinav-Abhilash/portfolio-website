@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Abhilash;Full+Stack+AI+Developer+%F0%9F%9A%80;Polyglot+Programmer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Elsie&weight=700&size=32&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Abhilash;Full+Stack+AI+Developer+%F0%9F%9A%80;Polyglot+Programmer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -145,6 +145,6 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Elsie&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
