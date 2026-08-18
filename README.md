@@ -1,5 +1,5 @@
 <div align="center">
-  <video width="100%" autoplay loop muted controls src="./header.mp4"></video>
+  <video width="100%" autoplay loop muted controls src="./header.gif"></video>
 </div>
 
 <h1 align="center">
