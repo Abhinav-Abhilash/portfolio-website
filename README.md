@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=555354&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Abhilash;Full+Stack+AI+Developer+%F0%9F%9A%80;Polyglot+Programmer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Abhilash;Full+Stack+AI+Developer+%F0%9F%9A%80;Polyglot+Programmer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" style="margin-top: 2rem;">
-  <table style="border-radius: 10px; border: 1px solid #ddd; overflow: hidden; background: linear-gradient(145deg, #f6f8fa, #ffffff);">
+  <table style="border-radius: 10px; border: 1px solid #FF0000; overflow: hidden; background: linear-gradient(145deg, #f6f8fa, #ffffff);">
     <tr>
       <td>
         <h3>💫 Full Stack & AI Expertise</h3>
@@ -76,22 +76,22 @@
 ## 🎯 Primary Tech Stack
 
 <div align="center" style="margin-top: 2rem;">
-  <table style="border-radius: 10px; border: 1px solid #ddd; overflow: hidden;">
+  <table style="border-radius: 10px; border: 1px solid #FF0000; overflow: hidden;">
     <tr>
       <td>
         <h3>🎨 Frontend Mastery</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css" alt="Frontend Core" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=typescript,javascript,html,css" alt="Frontend Core" style="margin: 5px;"/>
           <br/>
-          <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend Tools" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=react,tailwind" alt="Frontend Tools" style="margin: 5px;"/>
         </div>
       </td>
       <td>
         <h3>⚡ Backend & Database</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=go,rust,python" alt="Backend Core" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=go,rust,python" alt="Backend Core" style="margin: 5px;"/>
           <br/>
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Database Solutions" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=postgres,mysql,sqlite" alt="Database Solutions" style="margin: 5px;"/>
         </div>
       </td>
     </tr>
@@ -99,15 +99,15 @@
       <td>
         <h3>🚀 DevOps & Cloud</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=docker,github,vercel" alt="Infrastructure & Cloud" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=docker,github,vercel" alt="Infrastructure & Cloud" style="margin: 5px;"/>
         </div>
       </td>
       <td>
         <h3>🛠️ Development Tools</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=vscode,git,figma" alt="Core Tools" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=vscode,git,figma" alt="Core Tools" style="margin: 5px;"/>
           <br/>
-          <img src="https://skillicons.dev/icons?i=github,postman" alt="Testing & Collaboration" style="margin: 5px;"/>
+          <img src="https://skillicons.dev/icons?theme=dark&i=github,postman" alt="Testing & Collaboration" style="margin: 5px;"/>
         </div>
       </td>
     </tr>
@@ -120,10 +120,10 @@
 ## 📊 GitHub Analytics
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Abhilash&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhinav-Abhilash&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Abhilash&count_private=true&border_radius=10&background=0D0D0D&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhinav-Abhilash&count_private=true&show_icons=true&rank_icon=github&border_radius=10&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D0D0D&border_color=FF0000" alt="readme stats" />
   <br/><br/>
-  <img width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhinav-Abhilash&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhinav-Abhilash&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=FF0000&text_color=FFFFFF&bg_color=0D0D0D&border_color=FF0000" alt="top langs" />
 </div>
 
 <br/>
@@ -145,5 +145,5 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=555354&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
 </div>
