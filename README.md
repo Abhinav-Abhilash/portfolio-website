@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="85%" src="./header.gif" alt="Uchiha Banner"/>
+  <img width="100%" src="./header.gif" alt="Uchiha Banner"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Elsie&weight=700&size=32&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhinav+Abhilash;Full+Stack+AI+Developer+%F0%9F%9A%80;Polyglot+Programmer+%E2%9C%A8;Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&weight=700&size=32&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=800&lines=Hi%20%F0%9F%91%8B%20I%27m%20Abhinav%20Abhilash;Full%20Stack%20AI%20Developer%20%F0%9F%A7%A0;Distributed%20Systems%20Engineer%20%F0%9F%95%B8%EF%B8%8F;Polyglot%20Programmer%20%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -145,6 +145,6 @@
 
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Elsie&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=600&lines=Innovation+through+code+%F0%9F%92%A1;Building+the+future+%F0%9F%9A%80;Code+with+passion+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster&weight=600&size=24&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=800&lines=Forging%20robust%20architectures%20%F0%9F%8F%97%EF%B8%8F;Turning%20ideas%20into%20scalable%20code%20%F0%9F%92%A1;Building%20offline-first%20experiences%20%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
